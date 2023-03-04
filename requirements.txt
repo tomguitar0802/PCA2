@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+sklearn
+xlrd
+openpyxl
+japanize_matplotlib
+seaborn
+numpy==1.2
