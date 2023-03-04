@@ -7,4 +7,4 @@ xlrd
 openpyxl
 japanize_matplotlib
 seaborn
-numpy==1.2
+numpy==1.20
